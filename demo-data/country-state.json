@@ -1,0 +1,30 @@
+[
+  {
+    "name": "USA",
+    "code": "US",
+    "states": [
+      {
+        "name": "Alabama",
+        "code": "AL"
+      },
+      {
+        "name": "Alaska",
+        "code": "AK"
+      }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "states": [
+      {
+        "name": "here",
+        "code": "hr"
+      },
+      {
+        "name": "there",
+        "code": "tr"
+      }
+    ]
+  }
+]
